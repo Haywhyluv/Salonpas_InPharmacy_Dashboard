@@ -2,6 +2,8 @@
 
 ![](Salon_intro.jpg)
 
+
+
 Introduction
 This Analysis provides an insight what appears to be a retail marketing campaign conducted across 11 pharmacy stores pan Nigeria. The report is designed to track two primary activities: product sampling (distributing free samples to engage consumers) and product sales. It visualizes performance against set targets, identifies trends over the campaign's duration, and highlights the best and worst-performing stores and products (SKUs).
 
@@ -62,6 +64,7 @@ A Targets Dimension holding the SalesTarget and SamplingTgt for each store.
 Relationships would link the StoreID, SKU_ID, and Date in the fact table to their respective dimension tables.
 
 Analytics and Visualization
+![](Salon_home.PNG)
 The dashboard presents a clear, albeit mixed, performance story.
 
 Home View Insights (Salon_home.PNG)
@@ -128,3 +131,5 @@ Data Ambiguity: The conflict between "6 days" and "6 weeks" is a significant cha
 Measuring ROI: The dashboard tracks activity and sales volume but lacks cost data. To understand the true success of the campaign, you need to analyze the Return on Investment (ROI) by factoring in the cost of samples given and the profit margin on units sold.
 
 Correlation vs. Causation: The dashboard shows that high sampling doesn't always lead to high sales (e.g., Bydow). The challenge is to uncover the root cause, which requires qualitative data (e.g., staff interviews, customer feedback) beyond the scope of this dashboard.
+
+![](Salon_high.PNG)
