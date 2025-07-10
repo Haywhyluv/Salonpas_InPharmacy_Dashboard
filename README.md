@@ -3,7 +3,6 @@
 ![](Salon_intro.jpg)
 
 
-
 Introduction
 This Analysis provides an insight what appears to be a retail marketing campaign conducted across 11 pharmacy stores pan Nigeria. The report is designed to track two primary activities: product sampling (distributing free samples to engage consumers) and product sales. It visualizes performance against set targets, identifies trends over the campaign's duration, and highlights the best and worst-performing stores and products (SKUs).
 
